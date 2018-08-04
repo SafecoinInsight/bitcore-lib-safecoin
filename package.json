@@ -78,7 +78,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:Fair-Exchange/bitcore-lib-safecoin.git.git"
+    "url": "git://github.com/SafecoinInsight/bitcore-lib-safecoin.git.git"
   },
   "browser": {
     "request": "browser-request"
@@ -92,7 +92,7 @@
     "lodash": "=3.10.1"
   },
   "devDependencies": {
-    "bitcore-build-safecoin": "git+ssh://git@github.com:Fair-Exchange/bitcore-build-safecoin",
+    "bitcore-build-safecoin": "git://github.com/SafecoinInsight/bitcore-build-safecoin",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
